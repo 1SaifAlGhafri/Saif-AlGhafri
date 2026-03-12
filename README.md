@@ -1,4 +1,4 @@
-# Saif-AlGhafri
+# 1SaifAlGhafri
 👋 Hi, I’m Saif AlGhafri
 
 🌍 Aspiring AI engineer based in Abu Dhabi.  
