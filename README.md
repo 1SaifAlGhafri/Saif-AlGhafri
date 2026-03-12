@@ -3,6 +3,7 @@
 
 🌍 Aspiring AI engineer based in Abu Dhabi.  
 🧠 I am passionate about taking ideas from imagination to implementation and building projects that address real‑world problems.
+
 💡 With each new idea, I see a new project opportunity to learn something new.  
 
 🛠️ My main tool is GitHub, where I explore, build, and document what I learn.  
